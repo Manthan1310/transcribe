@@ -1,0 +1,21 @@
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+input[type="file"],
+button {
+    margin-bottom: 10px;
+}
+
+#transcriptionResult {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
